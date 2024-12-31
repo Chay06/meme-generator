@@ -1,4 +1,4 @@
-# Meme-Generator-ReactJS 🤪
+# Meme-Generator-ReactJS 
 
 Creating a **`Meme Generator App`** using `ReactJS`
 
@@ -227,15 +227,11 @@ npm start
     - [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
     - [Handle Inputs And Render Lists](https://www.theodinproject.com/lessons/node-path-javascript-handle-inputs-and-render-lists)
 
-2. Figma Design
-
-    - [Meme Generator](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?node-id=0%3A1)
-
-3. Scrimba
+2. Scrimba
 
     - [Learn React](https://scrimba.com/learn/learnreact)
 
-4. React Official Documentation
+3. React Official Documentation
 
     - [Mouse Events in React](https://reactjs.org/docs/events.html#mouse-events)
     - [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
