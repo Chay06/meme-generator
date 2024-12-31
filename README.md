@@ -2,10 +2,6 @@
 
 Creating a **`Meme Generator App`** using `ReactJS`
 
-## [Live Preview](https://hmjatt.github.io/Meme-Generator-ReactJS/)
-
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/meme-generator/mobile.png)
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/meme-generator/desktop.png)
 
 <hr>
 
